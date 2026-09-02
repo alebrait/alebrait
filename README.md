@@ -1,72 +1,88 @@
+<div align="center">
+
 # Alexander
 
-Full-stack developer building maintainable web applications,
-APIs and backend systems.
+### Full-Stack Software Engineer
 
-Python / Django • Go • React / TypeScript • PostgreSQL • Docker
+**Python / Django · Go · React / TypeScript · PostgreSQL · Docker**
 
-## What I build
+*Building software meant to last.*
 
-I like projects where backend architecture matters:
-business applications, APIs, analytics-heavy systems and
-AI-enabled software.
+</div>
 
-My engineering priorities:
+---
 
-- Test-driven development
-- Clear architecture
-- Dependency inversion
-- Maintainable code
-- Simple abstractions
-- Code that another developer can understand years later
+## About
 
-## Selected Projects
+I build maintainable **web applications, APIs, backend systems, and AI-enabled software**.
+
+I care less about chasing frameworks and more about building systems that remain understandable as they grow. My work is guided by **test-driven development, clear architectural boundaries, dependency inversion, and simple abstractions**.
+
+```text
+Readable > clever
+Tests describe behaviour
+Dependencies point inward
+Abstractions must earn their place
+Code should still make sense years later
+```
+
+## Engineering
+
+| Backend | Frontend | Data & Infrastructure | Practices |
+| --- | --- | --- | --- |
+| Python | React | PostgreSQL | TDD |
+| Django | TypeScript | Docker | Clean Architecture |
+| Go | Next.js | REST APIs | Dependency Inversion |
+
+## Selected Work
 
 ### 🛒 Ecommerce Platform
-Django + Next.js + PostgreSQL
+**Django · Next.js · TypeScript · PostgreSQL**
 
-A full ecommerce system with product management, carts,
-authentication, administration and analytics.
+Production-oriented ecommerce architecture with product management, carts, authentication, administration, and analytics — including anonymous product interaction tracking.
 
-→ Repository
+**Focus:** TDD · maintainability · analytics · explicit architectural boundaries
 
 ### 🔐 Authorization Service
-Go
+**Go**
 
-Reusable authorization/authentication service designed to
-support multiple applications.
+Exploring a reusable authorization service for multiple applications, with Go used where small, focused network services make sense.
 
-→ Repository
+**Focus:** service boundaries · reusable infrastructure · simple interfaces
 
 ### 🧠 Beliefs & Attitudes
-Django + React
+**Django · React**
 
-Application for recording, examining and challenging personal
-beliefs and attitudes.
+An application for recording and examining beliefs and attitudes through structured reflection and common-sense questions.
 
-→ Repository
+**Focus:** domain modelling · clear UX · maintainable application structure
+
+> More projects will be linked here as they reach a state worth showcasing.
 
 ## Current Focus
 
-Building production-quality applications using:
-
-**Backend**
-Python · Django · Go · PostgreSQL
-
-**Frontend**
-React · TypeScript · Next.js
-
-**Engineering**
-TDD · Clean Architecture · Docker · REST APIs
+- Building production-quality applications with **Django + React/TypeScript**
+- Using **Go** for focused backend services and infrastructure
+- Applying **TDD** as a development discipline, not an afterthought
+- Designing code around maintainability and explicit dependencies
+- Exploring practical **AI-assisted development and AI integration**
 
 ## Engineering Philosophy
 
-> Simple code is not simplistic code.
+> **Simple code is not simplistic code.**
 
-I prefer systems where responsibilities are explicit,
-dependencies point inward, tests describe behaviour and
-the codebase remains understandable as it grows.
+Good software should make its responsibilities obvious. I prefer explicit dependencies, small interfaces, tests that document behaviour, and abstractions introduced because they solve a real problem — not because a pattern exists.
 
-## Contact
+The goal is software that another developer can open years later, understand, test, and change without fear.
 
-[Website] · [LinkedIn] · [Email]
+## Elsewhere
+
+This profile is a work in progress. I'm gradually replacing experiments and learning repositories with polished projects that represent how I actually build software.
+
+---
+
+<div align="center">
+
+**Build · Test · Simplify · Maintain**
+
+</div>
