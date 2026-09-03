@@ -1,88 +1,205 @@
 <div align="center">
 
-# Alexander
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Alexander%20Bratteng&fontSize=42&fontAlignY=36&desc=Full-stack%20software%20engineer%20building%20maintainable%20web,%20backend,%20and%20AI-enabled%20systems&descSize=15&descAlignY=58&color=0:0f172a,50:2563eb,100:14b8a6&fontColor=ffffff" alt="Alexander Bratteng - Full-stack software engineer" width="100%" />
 
-### Full-Stack Software Engineer
+<p>
+  <a href="https://github.com/alebrait?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/repos-public%20work-2563eb?style=for-the-badge"></a>
+  <a href="https://github.com/alebrait"><img alt="GitHub" src="https://img.shields.io/badge/github-alebrait-14b8a6?style=for-the-badge"></a>
+  <img alt="Focus" src="https://img.shields.io/badge/focus-maintainable%20systems-111827?style=for-the-badge">
+</p>
 
-**Python / Django · Go · React / TypeScript · PostgreSQL · Docker**
+<h3>Python / Django - Go - React / TypeScript - PostgreSQL - Docker - AI tooling</h3>
 
-*Building software meant to last.*
+<p>
+  I build software that is meant to survive contact with real users, future changes,
+  and the next developer who has to understand it.
+</p>
 
 </div>
 
 ---
 
-## About
+## What I Care About
 
-I build maintainable **web applications, APIs, backend systems, and AI-enabled software**.
-
-I care less about chasing frameworks and more about building systems that remain understandable as they grow. My work is guided by **test-driven development, clear architectural boundaries, dependency inversion, and simple abstractions**.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Engineering taste</h3>
+      <ul>
+        <li>Readable systems over clever fragments</li>
+        <li>Tests that describe behavior</li>
+        <li>Explicit boundaries and dependencies</li>
+        <li>Small abstractions that earn their place</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Current direction</h3>
+      <ul>
+        <li>Production-grade Django and React applications</li>
+        <li>Focused Go services and backend infrastructure</li>
+        <li>AI-assisted development workflows</li>
+        <li>Design systems and agent skills for better frontends</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ```text
 Readable > clever
-Tests describe behaviour
+Tests describe behavior
 Dependencies point inward
 Abstractions must earn their place
 Code should still make sense years later
 ```
 
-## Engineering
+## Public Work
 
-| Backend | Frontend | Data & Infrastructure | Practices |
-| --- | --- | --- | --- |
-| Python | React | PostgreSQL | TDD |
-| Django | TypeScript | Docker | Clean Architecture |
-| Go | Next.js | REST APIs | Dependency Inversion |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/alebrait/impeccable">Impeccable</a></h3>
+      <p>Design guidance for AI coding agents: skills, commands, browser iteration, and detector rules for stronger frontend output.</p>
+      <p><code>AI tooling</code> <code>frontend design</code> <code>agent skills</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/alebrait/no-cost-ai">No Cost AI</a></h3>
+      <p>A living index of free and low-friction AI tools for builders, researchers, and curious developers.</p>
+      <p><code>AI index</code> <code>developer resources</code> <code>curation</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/alebrait/awesome-ai-dev-prompts">Awesome AI Dev Prompts</a></h3>
+      <p>A prompt library for coding agents, architecture work, debugging, backend APIs, frontend systems, and AI applications.</p>
+      <p><code>prompt engineering</code> <code>architecture</code> <code>AI development</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/alebrait/taste-skill">Taste Skill</a></h3>
+      <p>Portable agent skills for better layout, typography, motion, spacing, and visual taste in AI-built interfaces.</p>
+      <p><code>design systems</code> <code>frontend</code> <code>agent workflows</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/alebrait/skills">Skills</a></h3>
+      <p>Personal Codex skill experiments and reusable instructions for making AI coding work more consistent.</p>
+      <p><code>Codex</code> <code>skills</code> <code>automation</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/alebrait/go-patterns">Go Patterns</a></h3>
+      <p>Go pattern notes and examples while sharpening small-service design, concurrency, and idiomatic backend structure.</p>
+      <p><code>Go</code> <code>patterns</code> <code>backend</code></p>
+    </td>
+  </tr>
+</table>
 
-## Selected Work
+<details>
+  <summary><strong>More repositories worth browsing</strong></summary>
+  <br>
 
-### 🛒 Ecommerce Platform
-**Django · Next.js · TypeScript · PostgreSQL**
+  <table>
+    <tr>
+      <th align="left">Repository</th>
+      <th align="left">Area</th>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/alebrait/collective-ai-tools">collective-ai-tools</a></td>
+      <td>AI tooling and discovery</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/alebrait/learn-go-with-tests">learn-go-with-tests</a></td>
+      <td>Go practice through tests</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/alebrait/project-layout">project-layout</a></td>
+      <td>Application structure experiments</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/alebrait/django-registration-templates">django-registration-templates</a></td>
+      <td>Django authentication templates</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/alebrait/developer-portfolios">developer-portfolios</a></td>
+      <td>Portfolio/reference collection</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/alebrait/autoresearch">autoresearch</a></td>
+      <td>Research automation experiments</td>
+    </tr>
+  </table>
 
-Production-oriented ecommerce architecture with product management, carts, authentication, administration, and analytics — including anonymous product interaction tracking.
+</details>
 
-**Focus:** TDD · maintainability · analytics · explicit architectural boundaries
+## System Shape
 
-### 🔐 Authorization Service
-**Go**
+GitHub profile READMEs do not run custom JavaScript, but they do render Mermaid diagrams. This is the kind of engineering loop I try to keep visible in my work:
 
-Exploring a reusable authorization service for multiple applications, with Go used where small, focused network services make sense.
+```mermaid
+flowchart LR
+    A[Problem] --> B[Domain model]
+    B --> C[Tests]
+    C --> D[Interfaces]
+    D --> E[Implementation]
+    E --> F[Feedback]
+    F --> B
 
-**Focus:** service boundaries · reusable infrastructure · simple interfaces
+    C -. protects .-> E
+    D -. isolates .-> E
+    F -. simplifies .-> A
+```
 
-### 🧠 Beliefs & Attitudes
-**Django · React**
+## Toolbox
 
-An application for recording and examining beliefs and attitudes through structured reflection and common-sense questions.
+<table>
+  <tr>
+    <td valign="top" width="25%">
+      <strong>Backend</strong><br>
+      Python<br>
+      Django<br>
+      Go<br>
+      REST APIs
+    </td>
+    <td valign="top" width="25%">
+      <strong>Frontend</strong><br>
+      React<br>
+      TypeScript<br>
+      Next.js<br>
+      HTML/CSS
+    </td>
+    <td valign="top" width="25%">
+      <strong>Data and infra</strong><br>
+      PostgreSQL<br>
+      Docker<br>
+      Linux<br>
+      GitHub
+    </td>
+    <td valign="top" width="25%">
+      <strong>Practices</strong><br>
+      TDD<br>
+      Clean Architecture<br>
+      Dependency inversion<br>
+      Code review
+    </td>
+  </tr>
+</table>
 
-**Focus:** domain modelling · clear UX · maintainable application structure
+## Stats
 
-> More projects will be linked here as they reach a state worth showcasing.
+<div align="center">
 
-## Current Focus
+<img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=alebrait&show_icons=true&hide_border=true&theme=transparent&title_color=2563eb&text_color=334155&icon_color=14b8a6" />
+<img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alebrait&layout=compact&hide_border=true&theme=transparent&title_color=2563eb&text_color=334155" />
 
-- Building production-quality applications with **Django + React/TypeScript**
-- Using **Go** for focused backend services and infrastructure
-- Applying **TDD** as a development discipline, not an afterthought
-- Designing code around maintainability and explicit dependencies
-- Exploring practical **AI-assisted development and AI integration**
+</div>
 
-## Engineering Philosophy
+## Private And In Progress
 
-> **Simple code is not simplistic code.**
-
-Good software should make its responsibilities obvious. I prefer explicit dependencies, small interfaces, tests that document behaviour, and abstractions introduced because they solve a real problem — not because a pattern exists.
-
-The goal is software that another developer can open years later, understand, test, and change without fear.
-
-## Elsewhere
-
-This profile is a work in progress. I'm gradually replacing experiments and learning repositories with polished projects that represent how I actually build software.
+Some of my more application-heavy work is private or still being shaped before it is worth presenting publicly, including ecommerce architecture, authorization services, and reflective/productivity applications. I keep this profile linked to public repositories that actually exist.
 
 ---
 
 <div align="center">
 
-**Build · Test · Simplify · Maintain**
+<strong>Build - test - simplify - maintain.</strong>
 
 </div>
