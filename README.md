@@ -183,14 +183,38 @@ flowchart LR
   </tr>
 </table>
 
-## Stats
+## Profile Signal
 
 <div align="center">
 
-<img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=alebrait&show_icons=true&hide_border=true&theme=transparent&title_color=2563eb&text_color=334155&icon_color=14b8a6" />
-<img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alebrait&layout=compact&hide_border=true&theme=transparent&title_color=2563eb&text_color=334155" />
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+</p>
 
 </div>
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>Most public work right now</strong><br>
+      AI tooling, agent skills, prompt libraries, and developer resources.
+    </td>
+    <td width="33%" valign="top">
+      <strong>Core application stack</strong><br>
+      Django, React, TypeScript, PostgreSQL, Docker, and pragmatic testing.
+    </td>
+    <td width="33%" valign="top">
+      <strong>Backend practice</strong><br>
+      Go services, small interfaces, concurrency notes, and pattern studies.
+    </td>
+  </tr>
+</table>
 
 ## Private And In Progress
 
